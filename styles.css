@@ -1,0 +1,52 @@
+body {
+    background-color: #f5f5dc; /* Vintage light background */
+    font-family: 'Arial', sans-serif;
+}
+
+.vintage-nav {
+    background-color: #e6e6e6; /* Vintage nav color */
+}
+
+.hero {
+    background-image: url('https://via.placeholder.com/1920x600/555/fff?text=Stamp+Gallery'); /* Placeholder image */
+    background-size: cover;
+    color: white;
+    padding: 150px 0;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.section {
+    padding: 80px 0;
+    color: #333;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+footer {
+    background-color: #e6e6e6; /* Vintage footer color */
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.list-group-item {
+    background-color: #fdfdfd; /* Light color item */
+    transition: background-color 0.3s ease;
+}
+
+.list-group-item:hover {
+    background-color: #e0e0e0; /* Hover effect */
+}
